@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-![Top Langs](https://github-readme-stats-kappa-two-56.vercel.app/api/top-langs/?username=ohebbi&layout=compact&hide=jupyter%20notebook,tex)
+![Top Langs](https://github-readme-stats-kappa-two-56.vercel.app/api/top-langs/?username=ohebbi&layout=compact&hide=jupyter%20notebook,tex&langs_count=10)
 
 <!--
 **ohebbi/ohebbi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
